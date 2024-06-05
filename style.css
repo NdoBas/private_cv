@@ -27,19 +27,19 @@ header {
   display: flex;
 }
 h1 {
-  padding-top: 35px;
-  padding-bottom: 10px;
+  padding-top: 25px;
+  padding-bottom: 15px;
   padding-left: 30px;
   font-size: 40px;
 }
 span {
-  padding-left: 70px;
+  padding-left: 90px;
   font-weight: bold;
 }
 
 .sub-contect p {
-  padding-left: 80px;
-  font-size: 18px;
+  padding-left: 150px;
+  font-size: 19px;
   font-weight: bold;
   color: dodgerblue;
 }
